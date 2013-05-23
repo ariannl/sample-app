@@ -1,0 +1,53 @@
+commit dbc42bf984bb208d29de1552477de923a1897753
+Author: vagrant <vagrant@precise32.(none)>
+Date:   Thu May 23 12:12:47 2013 +0000
+
+    gedaan wat moest gebeuren
+
+commit 778e39a678d4acdeb2264452bdd7940a5265f624
+Author: vagrant <vagrant@precise32.(none)>
+Date:   Thu May 23 12:03:04 2013 +0000
+
+    fixt buld
+
+commit c1dd5c9940bcdb3bc30b82f51aefc43e509fc095
+Author: vagrant <vagrant@precise32.(none)>
+Date:   Thu May 23 11:58:41 2013 +0000
+
+    fixt buld
+
+commit f4854bbcf6272e91c5e3176becaeaadabf50a8e0
+Author: Herbert Schuurmans <hschuurmans@xebia.com>
+Date:   Wed May 22 21:50:45 2013 +0200
+
+    Labs changed
+
+commit 04fc0619e7407ddbd27b8d00b9aeeeaa07c30108
+Author: Herbert Schuurmans <hschuurmans@xebia.com>
+Date:   Mon May 20 12:43:29 2013 +0200
+
+    Jenkins config removed
+
+commit ba65806bca31b5003a35d16042e1d338bc09061f
+Author: Herbert Schuurmans <hschuurmans@xebia.com>
+Date:   Mon May 20 12:35:06 2013 +0200
+
+    jetty plugin addded
+
+commit eff0ed3196e20fa9c508ba576c14753080ad2327
+Author: Herbert Schuurmans <hschuurmans@xebia.com>
+Date:   Sat May 18 21:29:35 2013 +0200
+
+    included some exercises in the maven configuration
+
+commit 6da9923deaf0e5c6e9d6978f972c91501ac350f2
+Author: Herbert Schuurmans <hschuurmans@xebia.com>
+Date:   Fri May 17 16:02:26 2013 +0200
+
+    initial project
+
+commit 31ee4a3cc4a2b56587f21ba4c71076b518f04962
+Author: HerbertSchuurmans <hschuurmans@xebia.com>
+Date:   Fri May 17 06:58:16 2013 -0700
+
+    Initial commit
